@@ -7,7 +7,7 @@ When two adjacent tiles with the same value move in the given direction, the til
 You will earn score every time you merge two tiles. 
 
 
-# Date: 02/04/2016
+# Date: 02/04/2019
 
 
 # Language
