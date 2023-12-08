@@ -26,6 +26,3 @@ This program is written in **Java**
 ![image](https://user-images.githubusercontent.com/19476654/30238365-2769e75e-94fb-11e7-9432-b723e2b806f8.png)
 
 <img width="585" alt="2017-09-08 11 05 39 pm" src="https://user-images.githubusercontent.com/19476654/30238366-2b70f2a2-94fb-11e7-8db8-a039dd07e4b4.png">
-
-# Author 
-[@Daniel](https://www.linkedin.com/in/daniel-huang-443546115/)
