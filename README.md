@@ -6,6 +6,7 @@ It basically gives you a board and let you move around tiles with vales(powers o
 When two adjacent tiles with the same value move in the given direction, the tiles would combine and merge into one tile. 
 You will earn score every time you merge two tiles. 
 
+I originally created this for a computer science class I took at UPenn. 
 
 # Date: 02/04/2019
 
